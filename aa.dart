@@ -8,3 +8,5 @@ class JaibMethod implementMethod paymentMethod{
         print ("paying ${amount}with Jaib Method");
     }
 }
+ 
+ 
