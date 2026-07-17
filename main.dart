@@ -1,9 +1,9 @@
 void main() {
   print("hello werde ");
- Math math;
-// print(math.sum(5,10));
-// print(math.sum("ali",10.toString()));
- //print(math.sum("ali ","Ahmmed"));
+ Math math=new Math;
+print(math.sum(5,10));
+print(math.sum("ali",10.toString()));
+print(math.sum("ali ","Ahmmed"));
  math =new Math.test("A");
 }
 class Math{
